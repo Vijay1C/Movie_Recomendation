@@ -27,9 +27,10 @@ DataSet is distributed over multiple csv files:
 * timestamp
 
 # Algorithms
+* Popularity based
 * Content based RS
 * Collaborative Filtering
-* Hybrid of the both
+* Hybrid of content and collaborative
 
 # Libraries
 * pandas
