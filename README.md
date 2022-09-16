@@ -26,5 +26,15 @@ DataSet is distributed over multiple csv files:
 * tag
 * timestamp
 
+# Algorithms
+* Content based RS
+* Collaborative Filtering
+* Hybrid of the both
+
+# Libraries
+* pandas
+* matplotlib
+* seaborn
+* scikit-learn
 
 
