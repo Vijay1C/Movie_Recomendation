@@ -1,5 +1,4 @@
-# Movie Recomendation Engine
-recomendation system model
+# DataSet
+MovieLens Dataset of over 20 Million Movie Ratings and Tagging
 
-## DataSet Information
-contains
+**Download link:** https://www.kaggle.com/grouplens/movielens-20m-dataset
